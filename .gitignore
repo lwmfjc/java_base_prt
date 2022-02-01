@@ -1,4 +1,5 @@
 .idea/
+target/
 java_base_prt.iml
 # Default ignored files
 /shelf/
